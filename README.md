@@ -5,7 +5,7 @@ My name is João Martins, i'm from Brazil 🇧🇷. I'm a front-end developer pa
 #### 🧠  "O conhecimento é a única coisa que ninguém pode tirar de você." 🧠
 
 - 📍 From Bahia, living in RJ
-- 📓 Studing at Cataline.io bootcamp
+- 📓 Studing at Rocketseat
 - 🔎 I'm looking for a job, in order to acquire knowledge and share everything I've learned until now!
 
 ### My languages and tools
