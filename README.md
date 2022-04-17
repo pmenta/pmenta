@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is João Martins, i'm from Brazil 🇧🇷. I'm a front-end developer passionate about what I do!
+My name is João Martins, i'm from Brazil 🇧🇷. I'm a full-stack developer focused on fron-end passionate about what I do!
 
 #### 🧠  "O conhecimento é a única coisa que ninguém pode tirar de você." 🧠
 
