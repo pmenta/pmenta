@@ -23,5 +23,8 @@ Using the JS stack (Node, React, React-Native) i usually develop full-stack appl
 - Docker
 - Scrum/Kanbam
 
+### What i'm learning:
+- Web3
+
 ### Reach me out 👇
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaomartinsdev/)](https://www.linkedin.com/in/joaomartinsdev/) 
