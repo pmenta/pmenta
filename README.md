@@ -1,10 +1,11 @@
 # Hi there 👋
 
-My name is João Martins, i'm from Brazil 🇧🇷. I'm a full-stack developer focused on front-end passionate about what I do!
+My name is João Martins, self-taught developer for over 2 years, focused on front-end, dedicated and curious to discover how things work and how to improve them!
+Using the JS stack (Node, React, React-Native) i usually develop full-stack applications using minimal unnecessary libraries, testing with Jest and always focusing on accessibility.
 
-#### 🧠  "O conhecimento é a única coisa que ninguém pode tirar de você." 🧠
+#### 🧠  "DO IT BY YOURSELF" 🧠
 
-- 📍 From Bahia, living in RJ
+- 📍 Rio de Janeiro, Brasil
 - 🔎 Front-End Developer at WeJam
 - 🔎 Freelancer Full-Stack Developer
 
