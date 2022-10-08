@@ -27,3 +27,5 @@ Using the JS stack (Node, React, React-Native) i usually develop full-stack appl
 
 ### Reach me out 👇
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaomartinsdev/)](https://www.linkedin.com/in/joaomartinsdev/) 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmenta&show_icons=true&locale=en&layout=compact" alt="pmenta" /></p>
