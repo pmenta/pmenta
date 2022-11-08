@@ -21,9 +21,13 @@ Using the JS stack (Node, React, React-Native) i usually develop full-stack appl
 - SQL and Postgres
 - Docker
 - Scrum/Kanbam
+- Design System
 
 ### What i'm learning:
-- RUST
+- Microservices
+- Clean Architecture
+- Solid
+
 
 ### Reach me out 👇
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaomartinsdev/)](https://www.linkedin.com/in/joaomartinsdev/) 
