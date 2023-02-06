@@ -1,7 +1,6 @@
 # Hi there 👋
 
-My name is João Martins, self-taught developer for over 2 years, focused on front-end, dedicated and curious to discover how things work and how to improve them!
-Using the JS stack (Node, React, React-Native) i usually develop full-stack applications using minimal unnecessary libraries, testing with Jest and always focusing on accessibility.
+Self-taught developer for over 3 years, focused on architecting and developing scalable applications. Dedicated and curious to discover how things work and how to improve them! Using the JS stack (Node, React, React-Native) i usually develop full-stack applications using minimal unnecessary libraries, focusing on user experience and accessibility.
 
 #### 🧠  "DO IT BY YOURSELF" 🧠
 
